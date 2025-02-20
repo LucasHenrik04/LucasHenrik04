@@ -1,16 +1,23 @@
-## Hi there 👋
+Sobre mim 🌟
 
-<!--
-**LucasHenrik04/LucasHenrik04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Lucas Henrique, estudante de Análise e Desenvolvimento de Sistemas na Unicesumar, com uma paixão por criar soluções tecnológicas inovadoras. Tenho experiência em programação e estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades no mundo da tecnologia.
 
-Here are some ideas to get you started:
+🌟 Minhas principais habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linguagens de Programação: Java, C, C#
+Frameworks e Ferramentas: Bootstrap, React, Spring Boot
+🚀 Projetos atuais
+
+Criação de jogos: Desenvolvendo jogos na Unity e GameMaker.
+🔭 O que estou aprendendo atualmente
+
+Especialização em Java e C#.
+🧠 Curiosidades sobre mim
+
+Adoro explorar ideias futuristas e aplicá-las em projetos do mundo real.
+Sou fascinado por desenvolvimento de jogos e meu sonho é criar vários tipos de jogos.
+Sou fã de jogos que exploram o mundo aberto.
+🌱 Vamos nos conectar!
+
+LinkedIn: https://www.linkedin.com/in/lucas-henrique-pereira-dos-santos-2571bb331/?trk=opento_sprofile_goalscard
+
