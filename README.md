@@ -19,5 +19,5 @@ Sou fascinado por desenvolvimento de jogos e meu sonho é criar vários tipos de
 Sou fã de jogos que exploram o mundo aberto.
 🌱 Vamos nos conectar!
 
-LinkedIn: https://www.linkedin.com/in/lucas-henrique-pereira-dos-santos-2571bb331/?trk=opento_sprofile_goalscard
+[LinkedIn](https://www.linkedin.com/in/lucas-henrique-pereira-dos-santos-2571bb331/?trk=opento_sprofile_goalscard)
 
